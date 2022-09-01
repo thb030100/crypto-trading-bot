@@ -1,1 +1,1 @@
-# crypto-trading-bot
+# How to create a crypto trading bot
